@@ -3,7 +3,7 @@
 
 <h3><i>Spare some time to take a look at my <a>portfolio</a>!</i></h3>
 
-<a href="https://www.linkedin.com/in/megha-hole-272b71a8/"><img src="https://github.com/Meghahole/CIS641-HW2-hole/tree/main/images/Propic.jpeg" align="right" height="300"></a>
+<a href="https://www.linkedin.com/in/megha-hole-272b71a8/"><img src="images\Propic.jpeg" align="right" height="300"></a>
 
 # About myself
 
@@ -129,4 +129,4 @@ implementation.
 
 # Quick Links
 
-<a href="https://www.linkedin.com/in/megha-hole-272b71a8/"><img height="30" src="https://github.com/Meghahole/CIS641-HW2-hole/tree/main/images/linkedin.png"></a>&nbsp;&nbsp;<a href="https://github.com/Meghahole/CIS641-HW2-hole"><img height="30" src="https://github.com/Meghahole/CIS641-HW2-hole/tree/main/images/resume.png"></a>&nbsp;&nbsp;<a href="mailto:meghahole1009@gmail.com"><img height="30" src="https://github.com/Meghahole/CIS641-HW2-hole/tree/main/images/email.png"></a>&nbsp;&nbsp;<a href="https://i.imgflip.com/1s8tcv.jpg"><img height="30" src="https://github.com/Meghahole/CIS641-HW2-hole/tree/main/images/insta.png"></a>&nbsp;&nbsp;<a href="https://i.imgflip.com/1s8tcv.jpg"><img height="30" src="https://github.com/Meghahole/CIS641-HW2-hole/tree/main/images/youtube.png"></a>&nbsp;&nbsp;<a href="https://i.imgflip.com/1s8tcv.jpg"><img height="30" src="https://github.com/Meghahole/CIS641-HW2-hole/tree/main/images/music.png"></a>&nbsp;&nbsp;<a href="https://www.facebook.com/"><img height="30" src="https://github.com/Meghahole/CIS641-HW2-hole/tree/main/images/facebook.png"></a>&nbsp;&nbsp;<a href="https://twitter.com/MeghaHole"><img height="30" src="https://github.com/Meghahole/CIS641-HW2-hole/tree/main/images/twitter.png"></a>&nbsp;&nbsp;<a href="https://www.instagram.com/"><img height="30" src="https://github.com/Meghahole/CIS641-HW2-hole/tree/main/images/camera.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/megha-hole-272b71a8/"><img height="30" src="images\linkedin.png"></a>&nbsp;&nbsp;<a href="https://github.com/Meghahole/CIS641-HW2-hole"><img height="30" src="images\resume.png"></a>&nbsp;&nbsp;<a href="mailto:meghahole1009@gmail.com"><img height="30" src="images\email.png"></a>&nbsp;&nbsp;<a href="https://i.imgflip.com/1s8tcv.jpg"><img height="30" src="images\insta.png"></a>&nbsp;&nbsp;<a href="https://i.imgflip.com/1s8tcv.jpg"><img height="30" src="images\youtube.png"></a>&nbsp;&nbsp;<a href="https://i.imgflip.com/1s8tcv.jpg"><img height="30" src="images\music.png"></a>&nbsp;&nbsp;<a href="https://www.facebook.com/"><img height="30" src="images\facebook.png"></a>&nbsp;&nbsp;<a href="https://twitter.com/MeghaHole"><img height="30" src="images\twitter.png"></a>&nbsp;&nbsp;<a href="https://www.instagram.com/"><img height="30" src="images\camera.png"></a>&nbsp;&nbsp;
