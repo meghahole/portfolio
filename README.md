@@ -7,10 +7,12 @@
 
 # About myself
 
-Pursuing a Master's in Applied Computer Science 
-at Grand Valley State University, I bring over 5 
-years of specialized experience in Data Integration. My expertise includes ETL tools like Abinitio, Unix Scripting, and Oracle SQL. Further enriched by international exposure in Dusseldorf, Germany, I excel in gathering business requirements, crafting specifications, conducting thorough testing, and
-developing training materials
+Results-driven Data Engineer with 5+ years of experience in big data processing, ETL, and cloud technologies. Expertise
+in Hadoop, Spark, Scala, and cloud platforms (AWS, GCP, Azure). Strong track record of collaboration with stakeholders to
+gather requirements and deliver accurate, visually appealing, and reliable data visualizations by working independently at
+Client Location Germany. Strong experience in real-time streaming applications, data pipeline optimization, and large-scale
+data processing. Proven ability to develop, maintain, and optimize scalable data solutions, ensuring high performance and
+reliability. Collaborative team player with excellent problem-solving and communication skills.
 
 # Status
 
@@ -26,27 +28,28 @@ developing training materials
 
 
 # Positions of Responsibility
-- Performed Root Cause Analysis and executed code fixes for assigned
-defects within the Abinitio GDE environment.
-- Managed code tagging and release processes across testing and
-production environments, implementing automation through Unix
-scripts and Python code.
-- Fostered collaboration with both offshore and onshore teams to
-ensure smooth project execution.
-- Monitored real-time job executions using Redwood, Control-M and
-swiftly resolved issues through the ticketing system.
-- Facilitated the technical code handover process to VSSI.
-- Contributed to a project at Client Location in Dusseldorf, Germany,
-focusing on the integration of staging into an existing system.
-- Implemented Data Quality report dashboard which positively impacted
-the organization by optimizing processes, promoting data-driven
-decisions, and ultimately leading to improved operational efficiency
-and business outcomes by 15%.
-- Created PSET to have generic graph.
-- Contributed to a migration project, transferring data from .xml to .dat
-format and securely storing it in Oracle SQL.
-- Utilized SAP BI and ABAP for specific aspects of the project's
-implementation.
+• Developed real-time streaming applications leveraging Abinitio conduct IT suite and SQL.
+• Designed and implemented large-scale data pipelines using Spark (Scala & PySpark), Hadoop, and Kafka.
+• Led AWS migration projects, ensuring seamless data consistency with AWS DMS.
+• Implemented CI/CD pipelines for automated testing and deployment of data solutions.
+• Improved ETL processes, optimizing data pipeline performance by 35% using Ab Initio and AWS services.
+• Conducted data validation and ensured accuracy in dashboards, reducing reporting discrepancies by 20%.
+• Collaborated with business users to train them in effectively leveraging Power BI reports.
+• Spearheaded the development of advanced Power BI visualizations to monitor business performance and key metrics.
+• Built and optimized Kafka-based real-time data ingestion pipelines for high-volume event processing.
+• Migrated critical big data workflows to cloud platforms (GCP & Azure Databricks).
+• Developed cloud-native Spark & Scala applications, reducing query execution time by 40%.
+• Led team discussions on transitioning SCD3 to SCD2 in Oracle SQL Databases, ensuring improved data governance and lineage.
+• Built Developed Hadoop and Spark-based ETL pipelines, improving data processing times by 30%.
+• Assisted in real-time data streaming frameworks using Spark Streaming for near real-time analytics.
+• Designed data migration strategies for transitioning legacy systems to modern cloud architecture.
+• Enhanced data governance practices and implemented DQ checks, increasing data reliability by 25%.
+• Designed scalable data models for analytics, improving query performance by 30%. Partnered with senior leaders to identify strategic opportunities and deliver data-driven recommendations.
+• Automated data quality validation scripts and built interactive Power BI dashboards to support production teams.
+• Optimized ETL pipelines using Ab Initio, reducing data processing times by 40%.
+• Conducted root cause analysis, reducing system errors by 25%.
+• Migrated on-premises ETL workflows to AWS Glue, reducing infrastructure costs by 25%.
+• Developed custom visualizations for real-time insights, improving operational decision-making processes using actionable insights by designing Tableau dashboards, empowering business leaders with better reporting.
 
 # Projects
 
@@ -74,33 +77,14 @@ implementation.
 
 # Skills
 
-- SQL
-- Python
-- R Language
-- UNIX Shell Scripting
-- C
-- C++
-- Star-Schema Modeling
-- Snowflake-Schema Modeling
-- Galaxy-Schema Modeling
-- FACT and Dimension tables
-- Abinitio
-- Informatica
-- Talend
-- AWS
-- Datastage
-- Oracle (10g, 11g, 12c)
-- PostgreSQL
-- MySQL
-- SQL-Server
-- Teradata
-- Cassandra
-- MongoDB
-- DynamoDB
-- Redwood
-- Control-M
-- Microsoft Power BI
-- Tableau
+Programming Languages: Python, R, SQL, Scala, Unix Shell Scripting 
+Big Data & Streaming Frameworks: Hadoop,Hive, Snowflake, Databricks, Spark (PySpark, Scala), Kafka, Flink
+ETL: Ab Initio, Informatica, Talend, AWS Glue 
+DataModeling: Dimensional Data Modeling, Star Schema, Snowflake Schema, Fact and Dimension Tables
+Databases: Oracle(10g/11g/12c), PostgreSQL, MySQL, Teradata, Spark SQL
+Cloud Platforms: AWS (Glue, S3, Redshift), GCP (BigQuery,Dataflow), Azure Synapse 
+Data Visualization: Tableau, Power BI, Grafana, OpenSearch, Splunk 
+Version Control & Scheduling Tools: Agile, Scrum, Jira, Git, Apache Airflow, Autosys, Control-M
 
 <!-- <table>
   <tr>
@@ -129,4 +113,4 @@ implementation.
 
 # Quick Links
 
-<a href="https://www.linkedin.com/in/megha-hole-272b71a8/"><img height="30" src="images\linkedin.png"></a>&nbsp;&nbsp;<a href="https://github.com/Meghahole/CIS641-HW2-hole"><img height="30" src="images\resume.png"></a>&nbsp;&nbsp;<a href="mailto:meghahole1009@gmail.com"><img height="30" src="images\email.png"></a>&nbsp;&nbsp;<a href="https://i.imgflip.com/1s8tcv.jpg"><img height="30" src="images\insta.png"></a>&nbsp;&nbsp;<a href="https://i.imgflip.com/1s8tcv.jpg"><img height="30" src="images\youtube.png"></a>&nbsp;&nbsp;<a href="https://i.imgflip.com/1s8tcv.jpg"><img height="30" src="images\music.png"></a>&nbsp;&nbsp;<a href="https://www.facebook.com/"><img height="30" src="images\facebook.png"></a>&nbsp;&nbsp;<a href="https://twitter.com/MeghaHole"><img height="30" src="images\twitter.png"></a>&nbsp;&nbsp;<a href="https://www.instagram.com/"><img height="30" src="images\camera.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/megha-hole-272b71a8/"><img height="30" src="images\linkedin.png"></a>&nbsp;&nbsp;<a href="https://github.com/Meghahole/"><img height="30" src="images\resume.png"></a>&nbsp;&nbsp;<a href="mailto:meghahole1009@gmail.com"><img height="30" src="images\email.png"></a>&nbsp;&nbsp;<a href="https://i.imgflip.com/1s8tcv.jpg"><img height="30" src="images\insta.png"></a>&nbsp;&nbsp;<a href="https://i.imgflip.com/1s8tcv.jpg"><img height="30" src="images\youtube.png"></a>&nbsp;&nbsp;<a href="https://i.imgflip.com/1s8tcv.jpg"><img height="30" src="images\music.png"></a>&nbsp;&nbsp;<a href="https://www.facebook.com/"><img height="30" src="images\facebook.png"></a>&nbsp;&nbsp;<a href="https://twitter.com/MeghaHole"><img height="30" src="images\twitter.png"></a>&nbsp;&nbsp;<a href="https://www.instagram.com/"><img height="30" src="images\camera.png"></a>&nbsp;&nbsp;
